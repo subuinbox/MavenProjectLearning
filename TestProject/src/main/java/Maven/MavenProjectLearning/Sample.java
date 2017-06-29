@@ -9,6 +9,6 @@ public class Sample
     public static void main( String[] args )
     {
         System.out.println( "Hello World after update2!" );
-        System.out.println("Learnig with Anand ");
+        System.out.println("Learnig with Ganesh ");
     }
 }
